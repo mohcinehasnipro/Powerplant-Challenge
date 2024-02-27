@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyTSNfz9tGO+xwTc7d08RdzMxYx4Qob7a1hTyQY1Re+pKsYMW/bVfE17rUjxZl2jydijjlMhUvAgOHpHYn8ylQ==",
+  "success": true,
+  "projectFilePath": "E:\\mine\\New folder\\prt\\Challenge.Service\\Challenge.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohcineh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mohcineh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

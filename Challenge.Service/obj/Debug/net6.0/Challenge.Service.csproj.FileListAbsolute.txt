@@ -1,0 +1,12 @@
+E:\mine\New folder\prt\Challenge.Service\bin\Debug\net6.0\Challenge.Service.deps.json
+E:\mine\New folder\prt\Challenge.Service\bin\Debug\net6.0\Challenge.Service.dll
+E:\mine\New folder\prt\Challenge.Service\bin\Debug\net6.0\Challenge.Service.pdb
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\Challenge.Service.csproj.AssemblyReference.cache
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\Challenge.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\Challenge.Service.AssemblyInfoInputs.cache
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\Challenge.Service.AssemblyInfo.cs
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\Challenge.Service.csproj.CoreCompileInputs.cache
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\Challenge.Service.dll
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\refint\Challenge.Service.dll
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\Challenge.Service.pdb
+E:\mine\New folder\prt\Challenge.Service\obj\Debug\net6.0\ref\Challenge.Service.dll
