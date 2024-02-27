@@ -1,4 +1,4 @@
-﻿# Power Plant Production Plan API
+# Power Plant Production Plan API
 
 This API calculates the production plan for a set of power plants based on load, fuel costs, and other parameters.
 
@@ -43,13 +43,13 @@ To use the API, send a POST request to the `/productionplan` endpoint with a pay
 The API will return a JSON response with the production plan.
 
 ## Docker (Optional)
-To deploy the API using Docker, you can use the provided Dockerfile.
-Make sure you have Docker installed, and then build and run the Docker image.
+How create docker image and deploy docker contain
 ```bash
-	# Build the Docker image
-	docker build -t power-plant-api .
+	# Exec command for build image docker
+	docker build -t challenge:tag –f  Challenge.Api/Dockerfile .
 
-	# Run the Docker container
-	docker run -d -p 8888:8888 power-plant-api
+	# Exce command for run container docker
+	docker run -d -p 8888:80 challenge:tag
 ```
-The API will be accessible on port 8888 within the Docker container.
+## Open browser
+htttp//[youRL]:8888/swagger
